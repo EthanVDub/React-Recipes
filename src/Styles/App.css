@@ -1,0 +1,49 @@
+
+
+.header {
+  background-color: #33363b;
+  color: #9AC0B7;
+  font-family: Playfair Display;
+  text-align: center;
+  padding: 5px;
+  padding-bottom: 2px;
+
+}
+
+
+
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 12px 20px 12px 5px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  margin: 30px 20px 12px 0px;
+}
+input[type=text]:focus {
+  width: 25%;
+}
+
+.input-group-prepend {
+  margin-top: 10px;
+  padding: 20px 0px 12px 20px;
+}
+
+.edamam {
+  padding: 15px 20px 0px 5px;
+  margin: 20px 20px 12px 0px;
+
+}
+
+.beforeLoad {
+  margin-left: 10px;
+  color: #33363b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.recipeList {
+  font-family: 'Montserrat', sans-serif;
+}

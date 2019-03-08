@@ -1,0 +1,23 @@
+div.recipes{
+    padding-left: 10px;
+    margin: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  a {
+    color:  #9AC0B7;
+  }
+
+  div.recipes>div.images {
+      margin-right: 10px;
+  }
+  
+  div.recipes>div.images>img {
+    width: 200px;
+    border-radius: 8px;
+  }
+  
+  
