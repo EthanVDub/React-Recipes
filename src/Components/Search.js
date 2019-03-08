@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../Styles/App.css';
 
+
 //Component for the user input field of search
 class Search extends Component {
   constructor(props) {
