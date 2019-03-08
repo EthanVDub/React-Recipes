@@ -1,5 +1,7 @@
-React Recipes
+<h1>React Recipes</h1>
+
 By: Ethan Vander Wiel
+
 Link: https://ambient-antenna-229504.appspot.com/ Note: Please don't search more than 5 times per minute.
 
 A simple recipe search web app that uses the Edamam API to gather the recipe data.
@@ -8,7 +10,7 @@ To help me learn more React as well as how to gather data from an API, I decided
 
 
 
-
+<h2>Auto Generated Info:</h2>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
