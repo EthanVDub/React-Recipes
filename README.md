@@ -1,3 +1,14 @@
+React Recipes
+By: Ethan Vander Wiel
+Link: https://ambient-antenna-229504.appspot.com/ Note: Please don't search more than 5 times per minute.
+
+A simple recipe search web app that uses the Edamam API to gather the recipe data.
+
+To help me learn more React as well as how to gather data from an API, I decided to make a recipe app that the user can search ingredients and recipes using those ingredients will return. I found similar projects online that helped to teach me how to use the API, but I entirely programmed and designed the project myself.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
