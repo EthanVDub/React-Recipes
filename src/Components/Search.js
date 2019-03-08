@@ -3,7 +3,6 @@ import '../Styles/App.css';
 
 //Component for the user input field of search
 class Search extends Component {
-
   constructor(props) {
     super(props);
     this.state = {
