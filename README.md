@@ -2,7 +2,7 @@
 
 By: Ethan Vander Wiel
 
-Link: https://ambient-antenna-229504.appspot.com/ Note: Please don't search more than 5 times per minute.
+I have recently deleted this project from Google Cloud Platform
 
 A simple recipe search web app that uses the Edamam API to gather the recipe data.
 
